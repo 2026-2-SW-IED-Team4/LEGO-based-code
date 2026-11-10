@@ -16,7 +16,8 @@
 <br>
 
 <p align="center">
-  <img src="assets/route-map.svg" alt="강의실 안내 로봇 경로 개략도" width="100%">
+  <img width="895" height="632" alt="Снимок экрана — 2026-11-10 в 10 50 42 AM" src="https://github.com/user-attachments/assets/e949be9a-e93b-442a-b9fe-33787266ce47" />
+
 </p>
 
 ---
