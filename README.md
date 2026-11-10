@@ -38,6 +38,8 @@
 ---
 
 ## 📌 프로젝트 소개
+<img width="559" height="442" alt="Снимок экрана — 2026-11-10 в 10 59 16 AM" src="https://github.com/user-attachments/assets/77491a64-4329-48b3-a9da-9838a14d4877" />
+
 
 대학 건물에서 처음 온 사람은 강의실을 찾기 어렵습니다. 이 프로젝트는 **LEGO EV3 로봇이 목적지까지 직접 안내**해 주는 것을 목표로 합니다.
 
@@ -92,6 +94,7 @@
 | `CROSS` | `CrossMarker` | 노란색이 아닐 때까지 직진 (스티커 통과용, 현재 경로에서는 미사용) |
 
 ## 🧠 동작 원리
+<img width="782" height="707" alt="Снимок экрана — 2026-11-10 в 10 54 02 AM" src="https://github.com/user-attachments/assets/b5a81e70-998c-4834-9d67-3ce1b1ecdb04" />
 
 ### 1. 전체 흐름
 
