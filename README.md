@@ -245,8 +245,8 @@ if target = 304
 
 **만든 사람** · 👑사일라우바예브아얀([@zvcwv](https://github.com/zvcwv)) - EV3 based code, EV3dev environment installation, GitHub
 -  엄세르게이 ([@visyy](https://github.com/visyyy)) - Python based code, robot's logic, bug fixing
--  김주하 ([@beat-bit](https://github.com/beat-bit)) - robot build, robot testing
--  김민준 - 발표, video recording
+-  김민준 ([@beat-bit](https://github.com/beat-bit)) - robot build, robot testing
+-  김주하 - 발표, video recording
 
 
 </div>
